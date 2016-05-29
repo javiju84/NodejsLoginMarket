@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_login_market",
+  "version": "1.0.0",
+  "description": "Node JS, Express JS, HTML y Mongoose. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiju84/NodejsLoginMarket.git"
+  },
+  "author": "javiju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiju84/NodejsLoginMarket/issues"
+  },
+  "homepage": "https://github.com/javiju84/NodejsLoginMarket#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-session": "^2.0.0-alpha.1",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.4.12",
+    "nodemon": "^1.9.2"
+  }
+}
